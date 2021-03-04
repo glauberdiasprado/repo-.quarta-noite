@@ -3,7 +3,7 @@
 	print("Hello World!!!");
 
 	$array = [
-		"id"=>1, "nome"=>"Edson Melo"
+		"id"=>1, "nome"=>"Glauber do Prado"
 		];
 
 	foreach ($array as $key => $value) {
